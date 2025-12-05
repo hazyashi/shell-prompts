@@ -1,3 +1,5 @@
+#based on the gruvbox rainbow starship preset
+
 "$schema" = 'https://starship.rs/config-schema.json'
 
 format = """
